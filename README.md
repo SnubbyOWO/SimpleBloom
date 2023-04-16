@@ -1,4 +1,5 @@
 # Simple Bloom
+
 This Bloom is used on unity webgl. It is a light weight bloom so it doesn't look amazing but it gets the job done. I made this while working on Slime Rancher because I wanted it to have bloom like the original game but I also didnt want the game to lag like crazy. So I came up with this. Surely theres better but as long as it gets the job done it works. Though it probably needs some fixing.
 
 # < Example >
@@ -9,3 +10,7 @@ This Bloom is used on unity webgl. It is a light weight bloom so it doesn't look
 -- Bloom Enabled --
 
 ![SlimeRancher_ON](https://user-images.githubusercontent.com/87741849/232344739-3551bfea-b644-423f-80b9-9c9e1713344f.png)
+
+# How To Use
+
+Just add the script to your main camera then the shader, then BOOM that's it you can now edit and customize the way the bloom is like the threshold, bloom intensity, and bloom radius. Just as easy as that.
